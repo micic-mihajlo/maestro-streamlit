@@ -394,3 +394,4 @@ if st.button("Start Task"):
 
 if __name__ == "__main__":
     st.sidebar.info("This app uses AI models to break down and complete complex tasks. Enter your objective, optionally add a file or use search, and watch as the AI orchestrates the solution! credits to https://github.com/Doriandarko/maestro")
+    st.sidebar.info("Use light mode for now, styling ain't the best")
